@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295405594768",
+    "project_id": "e-shop-ed7ed",
+    "storage_bucket": "e-shop-ed7ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295405594768:android:7f85580c367b0474941015",
+        "android_client_info": {
+          "package_name": "com.krishan.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295405594768-4mkbimddm071odv4b7uttbn5766onf3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4cSxqZpGphTdg9mKSDmLDyouBwRpBnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295405594768-4mkbimddm071odv4b7uttbn5766onf3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
